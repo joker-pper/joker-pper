@@ -26,6 +26,19 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/joker-pper/count.svg)
 
+## 更新文章记录
+
+[Github java仓库如何配置codecov并展示代码覆盖率图标？](https://mp.weixin.qq.com/s/Bxu8fvTg_0uPywyiLa61Hw)
+
+[p6spy-starter springboot快速引入p6spy简单配置即可自动替换数据源](https://mp.weixin.qq.com/s/LriXLb56jldMkoufbcsrtg)
+
+[【Java】子类调用父类的方法中存在调用A方法，A方法又在子类中存在，那么执行的会是哪个A呢？](https://mp.weixin.qq.com/s/EUIn5bdHoJan1BD3wZUE8Q)
+
+[java程序提供默认实现策略，并支持自定义实现策略的一种方式？并如何避雷？](https://mp.weixin.qq.com/s/PX3LvPtSKERTvNtbNcO_4g)
+
+[MacOS如何添加/修改用户级环境变量？](https://mp.weixin.qq.com/s/bwYlLMj5Pafq3wMw_2koQQ)
+
+
 
 ## 版权说明
 
